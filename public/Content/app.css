@@ -1,0 +1,145 @@
+/* custom css goes here */
+body{
+    padding: 2px;
+    margin: 2px;
+}
+
+.float-container {
+    
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    
+} 
+
+.one{
+    
+    position: relative;
+    top: 30px;
+}
+.display-4{
+    text-align: center;
+    color: #482673;
+    font-weight: bold;
+    text-shadow: 0px 3px 0px #b2a98f,
+    0px 14px 10px rgba(0,0,0,0.15),
+    0px 24px 2px rgba(0,0,0,0.1),
+    0px 34px 30px rgba(0,0,0,0.1);
+}
+
+body{
+    background-color: #F6EBF4;
+    color: #482673;
+}
+nav{
+    background-color: #F6EBF4;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 9px;
+    
+}
+nav li a{
+    color: #482673;
+    font-weight: bold;
+    
+    
+
+}
+a:hover{
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+
+
+.fixed-bottom{
+    background-color: #F6EBF4;
+    color: #482673;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 9px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    height: 45px;
+}
+.container{
+    margin-top: 50px;
+}
+.first-hr{
+    position: relative;
+    border: none;
+    height: 3px;
+    background-color: rgba(0, 0, 255, .2);
+    width: 94rem;
+    
+}
+.btn-survery{
+    border-radius: 10px;
+    padding: 9px;
+    border: none;
+    background-color: #482673;
+    
+}
+.btn-survery a{
+    color: white;
+}
+.sign-btn{
+    border: none;
+    background-color: #482673;
+    color:white;
+   
+
+}
+.logo_1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.logo_box{
+    padding: right;
+    
+}
+.nav-item{
+    padding-right: 15px;
+}
+.navbar-brand{
+    color: #482673;
+    font-weight: bold;
+}
+
+.group-photo{
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-bottom: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+a{
+    text-decoration: none;
+    color: #482673;
+    text-decoration-line : none;
+}
+.card.p-3.mb-2{
+    height: 300px;
+}
+.table{
+    margin-right: 700px ;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 80px;
+}
+.login-container,.register-container {
+    padding: 10px;
+    margin-top: 10px;
+}
+.container-log, .container-reg{ 
+    display: flex;
+    justify-content: center;
+}
+
+
